@@ -1,0 +1,9 @@
+c:\users\aberhane\documents\visual studio 2017\Projects\Breakout\Breakout\bin\Debug\Breakout.exe.config
+c:\users\aberhane\documents\visual studio 2017\Projects\Breakout\Breakout\bin\Debug\Breakout.exe
+c:\users\aberhane\documents\visual studio 2017\Projects\Breakout\Breakout\bin\Debug\Breakout.pdb
+c:\users\aberhane\documents\visual studio 2017\Projects\Breakout\Breakout\obj\Debug\Breakout.csprojResolveAssemblyReference.cache
+c:\users\aberhane\documents\visual studio 2017\Projects\Breakout\Breakout\obj\Debug\Breakout.Form1.resources
+c:\users\aberhane\documents\visual studio 2017\Projects\Breakout\Breakout\obj\Debug\Breakout.Properties.Resources.resources
+c:\users\aberhane\documents\visual studio 2017\Projects\Breakout\Breakout\obj\Debug\Breakout.csproj.GenerateResource.Cache
+c:\users\aberhane\documents\visual studio 2017\Projects\Breakout\Breakout\obj\Debug\Breakout.exe
+c:\users\aberhane\documents\visual studio 2017\Projects\Breakout\Breakout\obj\Debug\Breakout.pdb
